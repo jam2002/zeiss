@@ -1,0 +1,15 @@
+com\zeiss\websocket\dto\MachineEventPayloadDTO.class
+com\zeiss\websocket\vo\MachineEventQueryDTO.class
+com\zeiss\websocket\vo\MachineEventVO.class
+com\zeiss\websocket\service\MachineEventService.class
+com\zeiss\websocket\WebsocketApplication.class
+com\zeiss\websocket\dao\MachineEventMapper.class
+com\zeiss\websocket\config\WebSocketConfig.class
+com\zeiss\websocket\controller\MachineEventController.class
+com\zeiss\websocket\dto\ActionResult.class
+com\zeiss\websocket\po\MachineEventPO.class
+com\zeiss\websocket\service\converter\ModelConverter.class
+com\zeiss\websocket\service\converter\ModelConverterImpl.class
+com\zeiss\websocket\dto\MachineEventDTO.class
+com\zeiss\websocket\service\MachineEventWebSocketServer.class
+com\zeiss\websocket\service\impl\MachineEventServiceImpl.class
